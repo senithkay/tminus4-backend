@@ -129,7 +129,7 @@ app.post('/sendEmail', async (req, res) => {
             <h1>Thank You for Contacting Us</h1>
         </div>
         <div class="content">
-            <p>Dear ,</p>
+            <p>Dear ${req.body.name},</p>
             <p>Thank you for reaching out to us through our website's contact form. We appreciate your interest and want to assure you that we have received your message.</p>
             <p>Here's a summary of the information you provided:</p>
             <ul>
