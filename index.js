@@ -11,7 +11,11 @@ app.use(cors({
 }));
 
 const recipients = [
-    'senithkarunarathneu@gmail.com'
+    'senithkarunarathneu@gmail.com',
+    'lahirusanjana1@gmail.com',
+    'senithfiverr@gmail.com',
+    'sureshsri1129@gmail.com',
+
 ]
 
 
