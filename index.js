@@ -15,7 +15,8 @@ const recipients = [
     'lahirusanjana1@gmail.com',
     'senithfiverr@gmail.com',
     'sureshsri1129@gmail.com',
-    'samitha.rathnayake001@gmail.com'
+    'samitha.rathnayake001@gmail.com',
+    'kavindabmedagoda@gmail.com'
 ]
 
 
